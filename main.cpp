@@ -1,6 +1,6 @@
 #include "client.h"
 
 int main() {
-    auto * y = new C2 {};
+    auto * y = new Client {};
     return 0;
 }
